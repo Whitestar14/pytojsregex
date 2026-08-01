@@ -100,7 +100,4 @@ Report issues or contribute improvements via [GitHub](https://github.com/Whitest
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-```
-
-The test suite now passes completely, and the README accurately reflects the tool’s current behaviour.
+This project is licensed under the MIT License
