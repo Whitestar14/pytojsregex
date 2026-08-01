@@ -23,7 +23,7 @@ A Python-to-JavaScript regular expression converter that handles syntax differen
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/pytojsregex.git
+git clone https://github.com/Whitestar14/pytojsregex.git
 cd pytojsregex
 ```
 
